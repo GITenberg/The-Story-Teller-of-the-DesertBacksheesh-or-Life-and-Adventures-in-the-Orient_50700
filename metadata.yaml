@@ -1,4 +1,5 @@
 _repo: The-Story-Teller-of-the-DesertBacksheesh-or-Life-and-Adventures-in-the-Orient_50700
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Anonymous
@@ -8,12 +9,17 @@ contributor:
     wikipedia:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
+covers:
+- cover_type: archival
+  image_path: 50700-h/images/cover.jpg
 creator:
   author:
     agent_name: Knox, Thomas W.
     gutenberg_agent_id: '43067'
     url: http://www.gutenberg.org/2009/agents/43067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50700#The-Story-Teller-of-the-DesertBacksheesh-or-Life-and-Adventures-in-the-Orient
 gutenberg_issued: '2015-12-15'
 gutenberg_type: Text
 identifiers:
